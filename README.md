@@ -1,2 +1,2 @@
-# micro--blog
+# micro-blog
 Anons
